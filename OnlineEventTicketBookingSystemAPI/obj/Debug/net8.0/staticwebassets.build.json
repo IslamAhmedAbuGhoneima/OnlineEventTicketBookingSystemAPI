@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OPnvG0EsEju6vKB1z0//KIbeQR1q//1k1jMI/Y3TwFY=",
+  "Source": "OnlineEventTicketBookingSystemAPI",
+  "BasePath": "_content/OnlineEventTicketBookingSystemAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

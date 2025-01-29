@@ -1,0 +1,15 @@
+G:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Contracts\bin\Debug\net8.0\Contracts.deps.json
+G:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Contracts\bin\Debug\net8.0\Contracts.dll
+G:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Contracts\bin\Debug\net8.0\Contracts.pdb
+G:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Contracts\bin\Debug\net8.0\Entities.dll
+G:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Contracts\bin\Debug\net8.0\Entities.pdb
+G:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Contracts\obj\Debug\net8.0\Contracts.csproj.AssemblyReference.cache
+G:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+G:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+G:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+G:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+G:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Contracts\obj\Debug\net8.0\Contracts.csproj.Up2Date
+G:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Contracts\obj\Debug\net8.0\Contracts.dll
+G:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+G:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Contracts\obj\Debug\net8.0\Contracts.pdb
+G:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Contracts\obj\Debug\net8.0\ref\Contracts.dll
