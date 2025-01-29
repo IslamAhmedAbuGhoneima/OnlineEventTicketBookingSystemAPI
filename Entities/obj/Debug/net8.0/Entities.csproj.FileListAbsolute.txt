@@ -10,3 +10,16 @@ G:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Entities\obj\Debug\
 G:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Entities\obj\Debug\net8.0\refint\Entities.dll
 G:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Entities\obj\Debug\net8.0\Entities.pdb
 G:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Entities\obj\Debug\net8.0\ref\Entities.dll
+F:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Entities\bin\Debug\net8.0\Entities.deps.json
+F:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Entities\bin\Debug\net8.0\Entities.dll
+F:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Entities\bin\Debug\net8.0\Entities.pdb
+F:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+F:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+F:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+F:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+F:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Entities\obj\Debug\net8.0\Entities.sourcelink.json
+F:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Entities\obj\Debug\net8.0\Entities.dll
+F:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Entities\obj\Debug\net8.0\refint\Entities.dll
+F:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Entities\obj\Debug\net8.0\Entities.pdb
+F:\.Net Track\.NetProjects\OnlineEventTicketBookingSystemAPI\Entities\obj\Debug\net8.0\ref\Entities.dll

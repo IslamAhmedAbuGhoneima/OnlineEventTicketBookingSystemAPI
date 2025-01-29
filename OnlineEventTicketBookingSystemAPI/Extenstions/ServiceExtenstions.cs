@@ -30,13 +30,17 @@ public static class ServiceExtenstions
             options.Password.RequireNonAlphanumeric = false;
             options.Password.RequiredLength = 5;
             options.User.RequireUniqueEmail = true;
+            options.Tokens.PasswordResetTokenProvider = TokenOptions.DefaultProvider;
         })
-        .AddEntityFrameworkStores<AppDbContext>();
+        .AddEntityFrameworkStores<AppDbContext>()
+        .AddDefaultTokenProviders();
         
 
     public static void ConfigureRepositoryPattern(this IServiceCollection service) =>
         service.AddScoped<IUnitOfWork, UnitOfWork>();
 
+    public static void ConfigureEmailSender(this IServiceCollection service) =>
+        service.AddTransient<IEmailSender, EmailSender>();
 
     public static void ConfigureJWTAuthentication(this IServiceCollection service,
         IConfiguration configuration)
@@ -66,10 +70,13 @@ public static class ServiceExtenstions
     }
 
     public static void AddJwtConfiguration(this IServiceCollection service,
-        IConfiguration configuration)
-    {
+        IConfiguration configuration) =>
         service.Configure<JwtConfiguration>(configuration.GetSection("JwtSettings"));
-    }
+    
+
+    public static void AddEmailSettingsConfiguration(this IServiceCollection service,
+        IConfiguration configuration) =>
+        service.Configure<EmailSettings>(configuration.GetSection("EmailSettings"));
 
     public static void ConfigureCorsPolicy(this IServiceCollection service)
     {

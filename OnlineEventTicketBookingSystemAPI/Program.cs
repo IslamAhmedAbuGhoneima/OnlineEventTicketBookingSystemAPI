@@ -21,8 +21,15 @@ namespace OnlineEventTicketBookingSystemAPI
             builder.Services.ConfigureCorsPolicy();
             builder.Services.ConfigureRepositoryPattern();
 
-            builder.Services.AddJwtConfiguration(builder.Configuration);
             builder.Services.ConfigureJWTAuthentication(builder.Configuration);
+            builder.Services.ConfigureEmailSender();
+
+            builder.Services.AddJwtConfiguration(builder.Configuration);
+            builder.Services.AddEmailSettingsConfiguration(builder.Configuration);
+
+
+            
+
 
             builder.Services.AddAutoMapper(typeof(Program)); // This line requires the AutoMapper.Extensions.Microsoft.DependencyInjection package
 

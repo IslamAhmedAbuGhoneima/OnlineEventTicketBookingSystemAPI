@@ -821,11 +821,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\.Net Track\\.NetProjects\\OnlineEventTicketBookingSystemAPI\\Entities\\Entities.csproj",
+      "projectUniqueName": "F:\\.Net Track\\.NetProjects\\OnlineEventTicketBookingSystemAPI\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "G:\\.Net Track\\.NetProjects\\OnlineEventTicketBookingSystemAPI\\Entities\\Entities.csproj",
+      "projectPath": "F:\\.Net Track\\.NetProjects\\OnlineEventTicketBookingSystemAPI\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "G:\\.Net Track\\.NetProjects\\OnlineEventTicketBookingSystemAPI\\Entities\\obj\\",
+      "outputPath": "F:\\.Net Track\\.NetProjects\\OnlineEventTicketBookingSystemAPI\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -856,7 +856,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
       "SdkAnalysisLevel": "9.0.100"
     },
@@ -885,7 +885,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

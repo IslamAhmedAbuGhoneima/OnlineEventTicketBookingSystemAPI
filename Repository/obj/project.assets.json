@@ -4222,11 +4222,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\.Net Track\\.NetProjects\\OnlineEventTicketBookingSystemAPI\\Repository\\Repository.csproj",
+      "projectUniqueName": "F:\\.Net Track\\.NetProjects\\OnlineEventTicketBookingSystemAPI\\Repository\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "G:\\.Net Track\\.NetProjects\\OnlineEventTicketBookingSystemAPI\\Repository\\Repository.csproj",
+      "projectPath": "F:\\.Net Track\\.NetProjects\\OnlineEventTicketBookingSystemAPI\\Repository\\Repository.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "G:\\.Net Track\\.NetProjects\\OnlineEventTicketBookingSystemAPI\\Repository\\obj\\",
+      "outputPath": "F:\\.Net Track\\.NetProjects\\OnlineEventTicketBookingSystemAPI\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4247,11 +4247,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "G:\\.Net Track\\.NetProjects\\OnlineEventTicketBookingSystemAPI\\Contracts\\Contracts.csproj": {
-              "projectPath": "G:\\.Net Track\\.NetProjects\\OnlineEventTicketBookingSystemAPI\\Contracts\\Contracts.csproj"
+            "F:\\.Net Track\\.NetProjects\\OnlineEventTicketBookingSystemAPI\\Contracts\\Contracts.csproj": {
+              "projectPath": "F:\\.Net Track\\.NetProjects\\OnlineEventTicketBookingSystemAPI\\Contracts\\Contracts.csproj"
             },
-            "G:\\.Net Track\\.NetProjects\\OnlineEventTicketBookingSystemAPI\\Entities\\Entities.csproj": {
-              "projectPath": "G:\\.Net Track\\.NetProjects\\OnlineEventTicketBookingSystemAPI\\Entities\\Entities.csproj"
+            "F:\\.Net Track\\.NetProjects\\OnlineEventTicketBookingSystemAPI\\Entities\\Entities.csproj": {
+              "projectPath": "F:\\.Net Track\\.NetProjects\\OnlineEventTicketBookingSystemAPI\\Entities\\Entities.csproj"
             }
           }
         }
@@ -4264,7 +4264,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
       "SdkAnalysisLevel": "9.0.100"
     },
@@ -4299,7 +4299,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
